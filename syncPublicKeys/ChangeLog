@@ -1,0 +1,13 @@
+2012-06-27 20:11  mmcmurray
+
+	* README.txt: .
+
+2012-06-27 19:49  mmcmurray
+
+	* setup.sh: .
+
+2012-06-27 18:50  mmcmurray
+
+	* ., bin, bin/genServerList.sh, bin/syncPublicKeys.sh, etc,
+	  etc/authorized_users, etc/servers.txt, keyfiles: initial commit
+
